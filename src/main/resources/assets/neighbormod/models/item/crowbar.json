@@ -1,0 +1,56 @@
+{
+  "parent": "forge:item/default",
+  "loader": "forge:composite",
+  "children": {
+    "part1": {
+      "loader": "forge:obj",
+      "model": "neighbormod:models/item/crowbar.obj",
+      "emissive_ambient": false,
+      "textures": {
+        "#0": "neighbormod:item/crowbar/silver",
+        "#1": "neighbormod:item/crowbar/red"
+      }
+    }
+  },
+  "textures": {
+    "particle": "neighbormod:item/crowbar/red"
+  },
+  "render_type": "solid",
+  "display": {
+    "thirdperson_righthand": {
+      "rotation": [90, -90, 0],
+      "translation": [1.13, 3.2, 1.13],
+      "scale": [0.3, 0.3, 0.3]
+    },
+    "thirdperson_lefthand": {
+      "rotation": [90, 90, 0],
+      "translation": [1.13, 3.2, 1.13],
+      "scale": [0.3, 0.3, 0.3]
+    },
+    "firstperson_righthand": {
+      "rotation": [0, -90, 25],
+      "translation": [1.13, 3.2, 1.13],
+      "scale": [0.5, 0.5, 0.5]
+    },
+    "firstperson_lefthand": {
+      "rotation": [0, 90, -25],
+      "translation": [1.13, 3.2, 1.13],
+      "scale": [0.5, 0.5, 0.5]
+    },
+    "ground": {
+      "translation": [0, 3, 0],
+      "rotation": [3,0,0],
+      "scale": [0.3, 0.3, 0.3]
+    },
+    "gui": {
+      "rotation": [-45, 45, 0],
+      "translation": [0, 0, 115],
+      "scale": [0.3, 0.3, 0.3]
+    },
+    "fixed": {
+      "rotation": [0, 180, 0],
+      "translation": [0, 0, 0],
+      "scale": [0.5, 0.5, 0.5]
+    }
+  }
+}

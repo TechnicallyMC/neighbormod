@@ -1,0 +1,8 @@
+{
+  "variants": {
+    "facing=north": { "model": "neighbormod:block/green_lock", "y": 0 },
+    "facing=east": { "model": "neighbormod:block/green_lock", "y": 90 },
+    "facing=south": { "model": "neighbormod:block/green_lock", "y": 180 },
+    "facing=west": { "model": "neighbormod:block/green_lock", "y": 270 }
+  }
+}

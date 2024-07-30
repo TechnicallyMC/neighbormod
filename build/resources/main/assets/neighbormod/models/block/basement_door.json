@@ -1,0 +1,18 @@
+{
+  "parent": "forge:item/default",
+  "loader": "forge:composite",
+  "children": {
+    "part1": {
+      "loader": "forge:obj",
+      "model": "neighbormod:models/item/neighbor_door.obj",
+      "emissive_ambient": false,
+      "textures": {
+        "#color": "neighbormod:block/neighbor_door"
+      }
+    }
+  },
+  "textures": {
+    "particle": "neighbormod:block/neighbor_door"
+  },
+  "render_type": "solid"
+}

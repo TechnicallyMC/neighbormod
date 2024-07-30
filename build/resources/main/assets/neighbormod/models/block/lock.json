@@ -1,0 +1,18 @@
+{
+	"parent": "forge:item/default",
+	"loader": "forge:composite",
+	"children": {
+		"part1": {
+			"loader": "forge:obj",
+			"model": "neighbormod:models/item/lock.obj",
+			"emissive_ambient": false,
+			"textures": {
+				"#base-color.001": "neighbormod:block/small_lock"
+			}
+		}
+	},
+	"textures": {
+		"particle": "neighbormod:block/small_lock"
+	},
+	"render_type": "solid"
+}

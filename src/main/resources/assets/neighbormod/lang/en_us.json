@@ -1,0 +1,27 @@
+{
+  "block.neighbormod.basement_door": "Basement Door",
+  "block.neighbormod.basement_door_open": "Basement Door",
+  "item.neighbormod.red_key": "Red Key",
+  "item.neighbormod.blue_key": "Blue Key",
+  "item.neighbormod.green_key": "Green Key",
+  "item.neighbormod.small_key": "Small Key",
+  "item.neighbormod.crowbar": "Crowbar",
+  "item.neighbormod.lawnmower": "Lawnmower",
+  "item.neighbormod.milk": "Milk",
+  "item.neighbormod.pills": "Pills",
+  "item.neighbormod.one_shot": "One Shot",
+
+  "block.neighbormod.cyan_wallpaper": "Cyan Wallpaper",
+  "block.neighbormod.purple_wallpaper": "Purple Wallpaper",
+  "block.neighbormod.red_wallpaper": "Red Wallpaper",
+  "block.neighbormod.white_wallpaper": "White Wallpaper",
+  "block.neighbormod.yellow_wallpaper": "Yellow Wallpaper",
+
+  "block.neighbormod.blood_planks": "Blood Planks",
+  "block.neighbormod.darkwood_planks": "Darkwood Planks",
+  "block.neighbormod.elder_planks": "Elder Planks",
+  "block.neighbormod.honeywood_planks": "Honeywood Planks",
+  "block.neighbormod.mossy_birch": "Mossy Birch",
+  "block.neighbormod.redwood_planks": "Redwood Planks",
+  "block.neighbormod.weathered_spruce": "Weathered Spruce"
+}

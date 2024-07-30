@@ -1,0 +1,12 @@
+{
+  "variants": {
+    "facing=north,poisoned=false": { "model": "neighbor-mod:block/milk_block", "y": 0 },
+    "facing=east,poisoned=false": { "model": "neighbor-mod:block/milk_block", "y": 90 },
+    "facing=south,poisoned=false": { "model": "neighbor-mod:block/milk_block", "y": 180 },
+    "facing=west,poisoned=false": { "model": "neighbor-mod:block/milk_block", "y": 270 },
+    "facing=north,poisoned=true": { "model": "neighbor-mod:block/milk_poison", "y": 0 },
+    "facing=east,poisoned=true": { "model": "neighbor-mod:block/milk_poison", "y": 90 },
+    "facing=south,poisoned=true": { "model": "neighbor-mod:block/milk_poison", "y": 180 },
+    "facing=west,poisoned=true": { "model": "neighbor-mod:block/milk_poison", "y": 270 }
+  }
+}

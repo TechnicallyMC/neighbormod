@@ -1,0 +1,8 @@
+{
+  "variants": {
+    "facing=north": { "model": "neighbor-mod:block/pills", "y": 0 },
+    "facing=east": { "model": "neighbor-mod:block/pills", "y": 90 },
+    "facing=south": { "model": "neighbor-mod:block/pills", "y": 180 },
+    "facing=west": { "model": "neighbor-mod:block/pills", "y": 270 }
+  }
+}

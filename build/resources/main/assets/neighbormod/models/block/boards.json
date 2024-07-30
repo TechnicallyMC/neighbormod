@@ -1,0 +1,12 @@
+{
+	"parent": "forge:item/default",
+	"loader": "forge:composite",
+	"children": {
+		"part1": {
+			"loader": "forge:obj",
+			"model": "neighbormod:models/item/boards.obj",
+			"emissive_ambient": false
+		}
+	},
+	"render_type": "solid"
+}

@@ -1,0 +1,19 @@
+{
+  "variants": {
+    "facing=north": {
+      "model": "neighbormod:block/basement_door_open"
+    },
+    "facing=east": {
+      "model": "neighbormod:block/basement_door_open",
+      "y": 90
+    },
+    "facing=south": {
+      "model": "neighbormod:block/basement_door_open",
+      "y": 180
+    },
+    "facing=west": {
+      "model": "neighbormod:block/basement_door_open",
+      "y": 270
+    }
+  }
+}

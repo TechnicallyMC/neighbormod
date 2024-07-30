@@ -1,0 +1,7 @@
+{
+	"parent": "neighbormod:block/lock",
+	"textures": {
+		"#base-color.001": "neighbormod:block/blue_lock",
+		"particle": "neighbormod:block/blue_lock"
+	}
+}

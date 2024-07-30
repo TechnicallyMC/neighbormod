@@ -1,0 +1,6 @@
+{
+	"parent": "neighbormod:item/key",
+	"textures": {
+		"3": "neighbormod:item/keys/red/red"
+	}
+}
