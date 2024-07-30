@@ -56,16 +56,18 @@
   </component>
   <component name="PropertiesComponent"><![CDATA[{
   "keyToString": {
+    "ASKED_SHARE_PROJECT_CONFIGURATION_FILES": "true",
     "RunOnceActivity.ShowReadmeOnStart": "true",
+    "SHARE_PROJECT_CONFIGURATION_FILES": "true",
     "git-widget-placeholder": "master",
     "last_opened_file_path": "C:/Users/Harry/Desktop/neighbormod"
   }
 }]]></component>
   <component name="RecentsManager">
     <key name="CopyFile.RECENT_KEYS">
+      <recent name="C:\Users\Harry\Desktop\neighbormod\src\main\resources\assets\neighbormod\textures\block" />
       <recent name="C:\Users\Harry\Desktop\neighbormod\src\main\resources\assets\neighbormod\models\item" />
       <recent name="C:\Users\Harry\Desktop\neighbormod\src\main\resources\assets\neighbormod\blockstates" />
-      <recent name="C:\Users\Harry\Desktop\neighbormod\src\main\resources\assets\neighbormod\textures\block" />
       <recent name="C:\Users\Harry\Desktop\neighbormod\src\main\resources\assets\neighbormod\models\block" />
       <recent name="C:\Users\Harry\Desktop\neighbormod" />
     </key>
